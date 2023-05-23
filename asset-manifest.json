@@ -1,24 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.fa3f4977.css",
-    "main.js": "/portfolio/static/js/main.3e6063e8.js",
+    "main.css": "/portfolio/static/css/main.c9a1d13c.css",
+    "main.js": "/portfolio/static/js/main.17119962.js",
     "static/media/email.jpg": "/portfolio/static/media/email.169d51f766043f70f3ff.jpg",
     "static/media/cv.pdf": "/portfolio/static/media/cv.eb7e7933658a4be6df96.pdf",
+    "static/media/meetups.png": "/portfolio/static/media/meetups.1f457f0368933e1c4be1.png",
     "static/media/e-commerce.jpg": "/portfolio/static/media/e-commerce.3173a241f72e8fe02764.jpg",
     "static/media/main_pic.JPG": "/portfolio/static/media/main_pic.b0acc478d8fec435afdd.JPG",
-    "static/media/project9.jpg": "/portfolio/static/media/project9.7e10b78179ee665298cd.jpg",
-    "static/media/project7.jpg": "/portfolio/static/media/project7.4389651d5816bb277c4a.jpg",
-    "static/media/project8.jpg": "/portfolio/static/media/project8.16ed43794953534af05c.jpg",
-    "static/media/project4.jpg": "/portfolio/static/media/project4.9e2e36250226a4ebb82b.jpg",
-    "static/media/project1.jpg": "/portfolio/static/media/project1.5cec46bd193a7eb80f22.jpg",
-    "static/media/project5.jpg": "/portfolio/static/media/project5.fdd0c6a0d639a9c75455.jpg",
+    "static/media/expense.jpg": "/portfolio/static/media/expense.7c9aeefb34e970430b56.jpg",
     "static/media/home-rentals.jpg": "/portfolio/static/media/home-rentals.579f26a75c49a92925ed.jpg",
+    "static/media/food-order.jpg": "/portfolio/static/media/food-order.899da9f17a1fc9ec214a.jpg",
     "index.html": "/portfolio/index.html",
-    "main.fa3f4977.css.map": "/portfolio/static/css/main.fa3f4977.css.map",
-    "main.3e6063e8.js.map": "/portfolio/static/js/main.3e6063e8.js.map"
+    "main.c9a1d13c.css.map": "/portfolio/static/css/main.c9a1d13c.css.map",
+    "main.17119962.js.map": "/portfolio/static/js/main.17119962.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa3f4977.css",
-    "static/js/main.3e6063e8.js"
+    "static/css/main.c9a1d13c.css",
+    "static/js/main.17119962.js"
   ]
 }
