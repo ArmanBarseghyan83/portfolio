@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.54ebd242.css",
-    "main.js": "/portfolio/static/js/main.716d1844.js",
+    "main.css": "/portfolio/static/css/main.e0f0037f.css",
+    "main.js": "/portfolio/static/js/main.5b908652.js",
     "static/media/portrait.png": "/portfolio/static/media/portrait.d5cec90334a755be7a51.png",
+    "static/media/programmer-1.png": "/portfolio/static/media/programmer-1.40e21b0fc6ddc9ec168a.png",
     "static/media/email.jpg": "/portfolio/static/media/email.169d51f766043f70f3ff.jpg",
     "static/media/cv.pdf": "/portfolio/static/media/cv.eb7e7933658a4be6df96.pdf",
     "static/media/meetups.png": "/portfolio/static/media/meetups.1f457f0368933e1c4be1.png",
     "static/media/logo-2.png": "/portfolio/static/media/logo-2.338d423e052337c3aabd.png",
     "static/media/e-commerce.jpg": "/portfolio/static/media/e-commerce.3173a241f72e8fe02764.jpg",
-    "static/media/main_pic.JPG": "/portfolio/static/media/main_pic.b0acc478d8fec435afdd.JPG",
     "static/media/expense.jpg": "/portfolio/static/media/expense.7c9aeefb34e970430b56.jpg",
     "static/media/home-rentals.jpg": "/portfolio/static/media/home-rentals.579f26a75c49a92925ed.jpg",
     "static/media/food-order.jpg": "/portfolio/static/media/food-order.899da9f17a1fc9ec214a.jpg",
     "static/media/events.jpg": "/portfolio/static/media/events.e6d0c3ea8daf8654bea1.jpg",
     "index.html": "/portfolio/index.html",
-    "main.54ebd242.css.map": "/portfolio/static/css/main.54ebd242.css.map",
-    "main.716d1844.js.map": "/portfolio/static/js/main.716d1844.js.map"
+    "main.e0f0037f.css.map": "/portfolio/static/css/main.e0f0037f.css.map",
+    "main.5b908652.js.map": "/portfolio/static/js/main.5b908652.js.map"
   },
   "entrypoints": [
-    "static/css/main.54ebd242.css",
-    "static/js/main.716d1844.js"
+    "static/css/main.e0f0037f.css",
+    "static/js/main.5b908652.js"
   ]
 }
