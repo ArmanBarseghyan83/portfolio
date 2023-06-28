@@ -1,0 +1,51 @@
+nav {
+  width: 100vw;
+  height: 5rem;
+  display: grid;
+  place-items: center;
+  background-color: var(--color-primary);
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9;
+  transition: var(--transition);
+}
+
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-logo {
+  font-size: 2rem;
+  width: 12rem;
+}
+
+.nav-menu {
+  display: flex;
+  gap: 3.5rem;
+}
+
+.nav-menu li {
+  font-size: large;
+}
+
+.nav-menu a.active,
+.nav-menu a:active,
+.nav-menu a:hover {
+  color: #12377c;
+}
+
+#theme-icon {
+  background: transparent;
+  color: white;
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 1024px) {
+  .nav-menu {
+    display: none;
+  }
+}
