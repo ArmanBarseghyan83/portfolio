@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.5218b717.css",
-    "main.js": "/portfolio/static/js/main.abfd9b89.js",
+    "main.js": "/portfolio/static/js/main.799d85fd.js",
     "static/media/portrait.png": "/portfolio/static/media/portrait.d5cec90334a755be7a51.png",
     "static/media/programmer-1.png": "/portfolio/static/media/programmer-1.40e21b0fc6ddc9ec168a.png",
     "static/media/email.jpg": "/portfolio/static/media/email.169d51f766043f70f3ff.jpg",
@@ -10,15 +10,15 @@
     "static/media/e-commerce.jpg": "/portfolio/static/media/e-commerce.3173a241f72e8fe02764.jpg",
     "static/media/expense.jpg": "/portfolio/static/media/expense.7c9aeefb34e970430b56.jpg",
     "static/media/home-rentals.jpg": "/portfolio/static/media/home-rentals.579f26a75c49a92925ed.jpg",
-    "static/media/resume.pdf": "/portfolio/static/media/resume.97384e1b723b608326c6.pdf",
+    "static/media/arman_resume.pdf": "/portfolio/static/media/arman_resume.3586953aa310af1614cb.pdf",
     "static/media/food-order.jpg": "/portfolio/static/media/food-order.899da9f17a1fc9ec214a.jpg",
     "static/media/events.jpg": "/portfolio/static/media/events.e6d0c3ea8daf8654bea1.jpg",
     "index.html": "/portfolio/index.html",
     "main.5218b717.css.map": "/portfolio/static/css/main.5218b717.css.map",
-    "main.abfd9b89.js.map": "/portfolio/static/js/main.abfd9b89.js.map"
+    "main.799d85fd.js.map": "/portfolio/static/js/main.799d85fd.js.map"
   },
   "entrypoints": [
     "static/css/main.5218b717.css",
-    "static/js/main.abfd9b89.js"
+    "static/js/main.799d85fd.js"
   ]
 }
