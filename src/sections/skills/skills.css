@@ -34,6 +34,14 @@
 }
 
 @media screen and (max-width: 1024px) {
+  #skills {
+    padding-top: 8rem;
+  }
+
+  #skills p{
+    margin-bottom: 1rem;
+  }
+
   .services-container {
     gap: 1.5rem;
   }

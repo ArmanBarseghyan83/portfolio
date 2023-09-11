@@ -59,6 +59,10 @@
 }
 
 @media screen and (max-width: 1024px) {
+  .about-cards {
+    margin: 1rem 0 1.5rem;
+  }
+
   .about-left {
     display: none;
   }

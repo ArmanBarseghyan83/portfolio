@@ -3,7 +3,7 @@
 }
 
 #projects p {
-  margin-bottom: 1.3rem;
+  margin-bottom: 1rem;
 }
 
 .portfolio-categories {
@@ -82,15 +82,21 @@
 }
 
 @media screen and (max-width: 1024px) {
+  #projects {
+    padding-top: 8rem;
+  }
+
   .portfolio-projects {
     grid-template-columns: 1fr 1fr;
     gap: 2rem;
+    margin-top: 1.2rem;
   }
 }
 
 @media screen and (max-width: 600px) {
   .portfolio-categories {
-    gap: 0.6rem;
+    justify-content: space-between;
+    gap: 0;
   }
 
   .btn.cat-btn {
