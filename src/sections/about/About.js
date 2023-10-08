@@ -1,6 +1,6 @@
 import React from "react";
 import AboutImage from "../../assets/programmer-1.png";
-import Resume from "../../assets/arman_resume.pdf";
+import Resume from "../../assets/Arman_Resume.pdf";
 import { HiDownload } from "react-icons/hi";
 import data from "./data";
 import Card from "../../components/Card";
