@@ -10,6 +10,7 @@ const Portfolio = () => {
   const categories = data.map((item) => item.category);
   const uniqueCategoires = ["All", ...new Set(categories)];
 
+//If 'All' button is active show all categories, otherwise whichever category is clicked.
   const categoryProjectsHandler = (category) => {
     if (category === "All") {
       setProjects(data);

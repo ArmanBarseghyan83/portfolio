@@ -20,6 +20,7 @@ const App = () => {
   const [siteYPostion, setSiteYPosition] = useState(0);
   const [theme, setTheme] = useState(localStorage.getItem("theme"));
 
+  // Show floating nav only if the page scrolled at least 20px
   const floatingNavToggleHandler = useCallback(() => {
     // check if we scrolled up or down at least 20px
     if (
@@ -34,6 +35,7 @@ const App = () => {
     setSiteYPosition(mainRef?.current?.getBoundingClientRect().y);
   }, [siteYPostion]);
 
+  // Switch theme between dark and light
   const themeHandler = () => {
     if (localStorage.getItem("theme") === "dark") {
       localStorage.setItem("theme", "");

@@ -6,6 +6,7 @@ import data from "./data";
 import Card from "../../components/Card";
 import "./about.css";
 
+
 const About = () => {
   return (
     <section id="about">

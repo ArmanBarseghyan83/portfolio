@@ -3,6 +3,7 @@ import { useState } from "react";
 import CategoryButton from "./CategoryButton";
 
 const ProjectsCategories = ({ categories, onChangeCategories }) => {
+  // By default set active the 'All' button, then switch as clicked.
   const [activeCategory, setActiveCategory] = useState("All");
 
   const changeCategoryHandler = (activeCat) => {
