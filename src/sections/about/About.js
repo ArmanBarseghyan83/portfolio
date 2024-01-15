@@ -35,7 +35,7 @@ const About = () => {
             have successfully completed online learning courses and obtained a
             professional certificate in Computer Science for Web Programming
             from Harvard University. I work with HTML, CSS, Bootstrap,
-            JavaScript, React, Next.js, Python, Django, Flask & SQL.
+            JavaScript, React, Next.js, MySQL, Sequelize, MERN, Python, Django, Flask & SQL.
           </p>
           <p>
             Facing challenges and trying to solve them while learning new skills

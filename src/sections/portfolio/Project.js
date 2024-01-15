@@ -1,6 +1,6 @@
-import React from "react";
-import Card from "../../components/Card";
-import { BsGithub } from "react-icons/bs";
+import React from 'react';
+import Card from '../../components/Card';
+import { BsGithub } from 'react-icons/bs';
 
 const Project = ({ project }) => {
   return (
@@ -19,7 +19,12 @@ const Project = ({ project }) => {
         >
           Demo
         </a>
-        <a href={project.github} id="github-logo">
+        <a
+          href={project.github}
+          id="github-logo"
+          target="_blank"
+          rel="noopner noreferrer"
+        >
           <BsGithub />
         </a>
       </div>

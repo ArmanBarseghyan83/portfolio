@@ -33,6 +33,8 @@ const Header = () => {
           <a
             href="https://github.com/ArmanBarseghyan83/portfolio.git"
             id="github-logo"
+            rel="noopner noreferrer"
+            target="_blank"
           >
             <BsGithub />
           </a>
