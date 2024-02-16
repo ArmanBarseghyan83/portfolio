@@ -1,11 +1,10 @@
-import React from "react";
-import AboutImage from "../../assets/programmer-1.png";
-import Resume from "../../assets/Arman_Resume.pdf";
-import { HiDownload } from "react-icons/hi";
-import data from "./data";
-import Card from "../../components/Card";
-import "./about.css";
-
+import React from 'react';
+import AboutImage from '../../assets/programmer-1.png';
+import Resume from '../../assets/Arman_Resume.pdf';
+import { HiDownload } from 'react-icons/hi';
+import data from './data';
+import Card from '../../components/Card';
+import './about.css';
 
 const About = () => {
   return (
@@ -35,7 +34,8 @@ const About = () => {
             have successfully completed online learning courses and obtained a
             professional certificate in Computer Science for Web Programming
             from Harvard University. I work with HTML, CSS, Bootstrap,
-            JavaScript, React, Next.js, MySQL, Sequelize, MERN, Python, Django, Flask & SQL.
+            JavaScript, React, Next.js, MySQL, Sequelize, Node.js, Express.js,
+            GraphQL, MERN, Python, Django, Flask & SQL.
           </p>
           <p>
             Facing challenges and trying to solve them while learning new skills
