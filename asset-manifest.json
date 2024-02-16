@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.2fa5954e.css",
-    "main.js": "/portfolio/static/js/main.59fec2a9.js",
+    "main.js": "/portfolio/static/js/main.e60ae25f.js",
+    "static/media/Arman_Resume.pdf": "/portfolio/static/media/Arman_Resume.77045bfdb95d3e4d5e22.pdf",
     "static/media/portrait2.png": "/portfolio/static/media/portrait2.84a74ccd90c17f0d7f2b.png",
     "static/media/programmer-1.png": "/portfolio/static/media/programmer-1.40e21b0fc6ddc9ec168a.png",
     "static/media/email.jpg": "/portfolio/static/media/email.169d51f766043f70f3ff.jpg",
-    "static/media/Arman_Resume.pdf": "/portfolio/static/media/Arman_Resume.842d3351ded44f07e5e9.pdf",
     "static/media/meetups.png": "/portfolio/static/media/meetups.1f457f0368933e1c4be1.png",
     "static/media/logo-2.png": "/portfolio/static/media/logo-2.338d423e052337c3aabd.png",
     "static/media/e-commerce.jpg": "/portfolio/static/media/e-commerce.3173a241f72e8fe02764.jpg",
@@ -15,10 +15,10 @@
     "static/media/events.jpg": "/portfolio/static/media/events.e6d0c3ea8daf8654bea1.jpg",
     "index.html": "/portfolio/index.html",
     "main.2fa5954e.css.map": "/portfolio/static/css/main.2fa5954e.css.map",
-    "main.59fec2a9.js.map": "/portfolio/static/js/main.59fec2a9.js.map"
+    "main.e60ae25f.js.map": "/portfolio/static/js/main.e60ae25f.js.map"
   },
   "entrypoints": [
     "static/css/main.2fa5954e.css",
-    "static/js/main.59fec2a9.js"
+    "static/js/main.e60ae25f.js"
   ]
 }
