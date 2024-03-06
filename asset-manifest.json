@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.2fa5954e.css",
-    "main.js": "/portfolio/static/js/main.e60ae25f.js",
+    "main.js": "/portfolio/static/js/main.c5e953cc.js",
     "static/media/Arman_Resume.pdf": "/portfolio/static/media/Arman_Resume.77045bfdb95d3e4d5e22.pdf",
     "static/media/portrait2.png": "/portfolio/static/media/portrait2.84a74ccd90c17f0d7f2b.png",
     "static/media/programmer-1.png": "/portfolio/static/media/programmer-1.40e21b0fc6ddc9ec168a.png",
@@ -11,14 +11,15 @@
     "static/media/e-commerce.jpg": "/portfolio/static/media/e-commerce.3173a241f72e8fe02764.jpg",
     "static/media/expense.jpg": "/portfolio/static/media/expense.7c9aeefb34e970430b56.jpg",
     "static/media/home-rentals.jpg": "/portfolio/static/media/home-rentals.579f26a75c49a92925ed.jpg",
+    "static/media/e-versity.jpg": "/portfolio/static/media/e-versity.e8d4959ebb6c31d3c0bb.jpg",
     "static/media/food-order.jpg": "/portfolio/static/media/food-order.899da9f17a1fc9ec214a.jpg",
     "static/media/events.jpg": "/portfolio/static/media/events.e6d0c3ea8daf8654bea1.jpg",
     "index.html": "/portfolio/index.html",
     "main.2fa5954e.css.map": "/portfolio/static/css/main.2fa5954e.css.map",
-    "main.e60ae25f.js.map": "/portfolio/static/js/main.e60ae25f.js.map"
+    "main.c5e953cc.js.map": "/portfolio/static/js/main.c5e953cc.js.map"
   },
   "entrypoints": [
     "static/css/main.2fa5954e.css",
-    "static/js/main.e60ae25f.js"
+    "static/js/main.c5e953cc.js"
   ]
 }
