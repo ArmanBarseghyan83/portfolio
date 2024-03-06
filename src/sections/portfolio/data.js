@@ -5,6 +5,7 @@ import expense from '../../assets/expense.jpg';
 import ecommerce from '../../assets/e-commerce.jpg';
 import eversity from '../../assets/e-versity.jpg';
 import meetups from '../../assets/meetups.png';
+import eventageous from '../../assets/eventageous.png';
 import events from '../../assets/events.jpg';
 import blog from '../../assets/blog.jpg';
 
@@ -68,8 +69,11 @@ const data = [
         This project is an online university system that offers classes to
         users. It provides three types of user accounts: Student, Instructor,
         and Admin. Each type has specific roles and functionalities within the
-        system.This project uses {' '}
-        <span>MongoDB, Express.js, GraphQl, React, React-Router, Ant Design</span>.
+        system.This project uses{' '}
+        <span>
+          MongoDB, Express.js, GraphQl, React, React-Router, Ant Design
+        </span>
+        .
       </>
     ),
     demo: 'https://e-versity.onrender.com/',
@@ -160,6 +164,21 @@ const data = [
     ),
     demo: 'https://blog-beta-eosin.vercel.app/',
     github: 'https://github.com/ArmanBarseghyan83/blog.git',
+  },
+  {
+    id: 10,
+    category: 'MVC',
+    image: eventageous,
+    title: 'Eventageous (MVC)',
+    desc: (
+      <>
+        Eventageous is a web application designed to help users organize and
+        share their events seamlessly. This project uses{' '}
+        <span>MVC paradigm, Express.js, Sequelize, Handlebars.js </span>.
+      </>
+    ),
+    demo: 'https://eventageous-53bf3f7d1038.herokuapp.com/',
+    github: 'https://github.com/ArmanBarseghyan83/eventageous',
   },
 ];
 

@@ -94,10 +94,6 @@
 }
 
 @media screen and (max-width: 600px) {
-  .portfolio-categories {
-    justify-content: space-between;
-    gap: 0;
-  }
 
   .btn.cat-btn {
     padding: 0.7rem 0.8rem;
