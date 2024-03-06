@@ -3,6 +3,7 @@ import homerentals from '../../assets/home-rentals.jpg';
 import email from '../../assets/email.jpg';
 import expense from '../../assets/expense.jpg';
 import ecommerce from '../../assets/e-commerce.jpg';
+import eversity from '../../assets/e-versity.jpg';
 import meetups from '../../assets/meetups.png';
 import events from '../../assets/events.jpg';
 import blog from '../../assets/blog.jpg';
@@ -56,8 +57,26 @@ const data = [
     demo: 'https://ecommerce-505z.onrender.com/',
     github: 'https://github.com/ArmanBarseghyan83/eCommerce-MERN',
   },
+
   {
     id: 4,
+    category: 'MERN',
+    image: eversity,
+    title: 'E-versity (MERN)',
+    desc: (
+      <>
+        This project is an online university system that offers classes to
+        users. It provides three types of user accounts: Student, Instructor,
+        and Admin. Each type has specific roles and functionalities within the
+        system.This project uses {' '}
+        <span>MongoDB, Express.js, GraphQl, React, React-Router, Ant Design</span>.
+      </>
+    ),
+    demo: 'https://e-versity.onrender.com/',
+    github: 'https://github.com/ArmanBarseghyan83/e-versity',
+  },
+  {
+    id: 5,
     category: 'React',
     image: foodorder,
     title: 'Food Order (react)',
@@ -76,7 +95,7 @@ const data = [
     github: 'https://github.com/ArmanBarseghyan83/food-order.git',
   },
   {
-    id: 5,
+    id: 6,
     category: 'React',
     image: expense,
     title: 'Expense Tracker (react)',
@@ -94,7 +113,7 @@ const data = [
     github: 'https://github.com/ArmanBarseghyan83/expense-traker.git',
   },
   {
-    id: 6,
+    id: 7,
     category: 'React',
     image: events,
     title: 'Events (react)',
@@ -113,7 +132,7 @@ const data = [
     github: 'https://github.com/ArmanBarseghyan83/events.git',
   },
   {
-    id: 7,
+    id: 8,
     category: 'NEXT.js',
     image: meetups,
     title: 'Meetups (next.js)',
@@ -128,7 +147,7 @@ const data = [
     github: 'https://github.com/ArmanBarseghyan83/meetups.git',
   },
   {
-    id: 8,
+    id: 9,
     category: 'NEXT.js',
     image: blog,
     title: 'Blog (next.js)',
