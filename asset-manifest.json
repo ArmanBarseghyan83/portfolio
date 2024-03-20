@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.318bf8db.css",
-    "main.js": "/portfolio/static/js/main.2c9c5332.js",
+    "main.js": "/portfolio/static/js/main.6194f0ca.js",
     "static/media/portrait2.png": "/portfolio/static/media/portrait2.84a74ccd90c17f0d7f2b.png",
     "static/media/programmer-1.png": "/portfolio/static/media/programmer-1.40e21b0fc6ddc9ec168a.png",
     "static/media/email.jpg": "/portfolio/static/media/email.169d51f766043f70f3ff.jpg",
+    "static/media/Arman_Resume.pdf": "/portfolio/static/media/Arman_Resume.1eebf05da8eea1fde6dd.pdf",
     "static/media/meetups.png": "/portfolio/static/media/meetups.1f457f0368933e1c4be1.png",
     "static/media/logo-2.png": "/portfolio/static/media/logo-2.338d423e052337c3aabd.png",
-    "static/media/Arman_Resume.pdf": "/portfolio/static/media/Arman_Resume.5031709a6f37c21c0eea.pdf",
     "static/media/eventageous.png": "/portfolio/static/media/eventageous.81aff46b4a5a66c50335.png",
     "static/media/e-commerce.jpg": "/portfolio/static/media/e-commerce.3173a241f72e8fe02764.jpg",
     "static/media/expense.jpg": "/portfolio/static/media/expense.7c9aeefb34e970430b56.jpg",
@@ -17,10 +17,10 @@
     "static/media/food-order.jpg": "/portfolio/static/media/food-order.899da9f17a1fc9ec214a.jpg",
     "index.html": "/portfolio/index.html",
     "main.318bf8db.css.map": "/portfolio/static/css/main.318bf8db.css.map",
-    "main.2c9c5332.js.map": "/portfolio/static/js/main.2c9c5332.js.map"
+    "main.6194f0ca.js.map": "/portfolio/static/js/main.6194f0ca.js.map"
   },
   "entrypoints": [
     "static/css/main.318bf8db.css",
-    "static/js/main.2c9c5332.js"
+    "static/js/main.6194f0ca.js"
   ]
 }
